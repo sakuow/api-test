@@ -1,4 +1,3 @@
-# README
-sample_appにRails 10章を加えたものにAI用の編集を加えたもの
+# Google API
 
-これをテンプレートにする
+Google Vision API　及びGoogle Natural Language APIの学習
